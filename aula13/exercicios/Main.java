@@ -127,6 +127,7 @@ public class Main {
 			System.out.println("OPS, vá de carona. Ainda nao tem permissao para dirigir!!");
 		}
 		
+		sc.close();
 
 	}
 
