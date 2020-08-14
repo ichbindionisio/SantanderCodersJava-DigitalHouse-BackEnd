@@ -35,7 +35,6 @@ public class AppProduct {
 		System.out.println("Updated data: " + produto.toString());
 		
 		sc.close();
-		
 	}
 
 }

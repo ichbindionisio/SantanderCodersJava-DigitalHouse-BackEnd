@@ -33,7 +33,6 @@ public class App14 {
 		else {
 			System.out.println("A area do triangulo Y é maior!");
 		}
-		
 		sc.close();
 	}
 }

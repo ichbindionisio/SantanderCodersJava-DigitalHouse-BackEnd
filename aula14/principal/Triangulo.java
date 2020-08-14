@@ -12,6 +12,5 @@ public class Triangulo {
 		double area = Math.sqrt(p * ((p-A) * (p-B) * (p-C)));
 		
 		return area;
-		
 	}
 }
