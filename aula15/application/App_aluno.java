@@ -30,7 +30,6 @@ public class App_aluno {
 		}
 		
 		sc.close();
-
 	}
 
 }

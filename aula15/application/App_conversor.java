@@ -17,6 +17,7 @@ public class App_conversor {
 		System.out.println("Montante a ser pago em reais: " + ConversorMoeda.conversao(precoDolar, montante));
 		
 		sc.close();
+		
 	}
 
 }

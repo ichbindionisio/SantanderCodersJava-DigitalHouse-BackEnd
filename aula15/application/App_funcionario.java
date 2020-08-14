@@ -35,5 +35,6 @@ public class App_funcionario {
 		System.out.println("Dados atualizados: " + func.toString());
 		
 		sc.close();
+		
 	}
 }

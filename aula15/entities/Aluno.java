@@ -25,5 +25,6 @@ public class Aluno {
 		else {
 			return 0.0;
 		}
+		
 	}
 }

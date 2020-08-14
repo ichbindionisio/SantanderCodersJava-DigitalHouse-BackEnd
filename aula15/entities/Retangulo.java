@@ -28,4 +28,5 @@ public class Retangulo {
 				"\nPerimetro: " + perimetro() + 
 				"\nDiagonal: " + diagonal();
 	}
+	
 }

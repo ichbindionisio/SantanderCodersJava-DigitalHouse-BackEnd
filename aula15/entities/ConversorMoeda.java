@@ -7,4 +7,5 @@ public class ConversorMoeda {
 	public static double conversao(double precoDolar, double montanteComprar) {
 		return montanteComprar * precoDolar * (1.0 + IOF);
 	}
+	
 }
