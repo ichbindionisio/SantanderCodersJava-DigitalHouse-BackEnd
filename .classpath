@@ -3,7 +3,12 @@
 	<classpathentry kind="src" path="aula13"/>
 	<classpathentry kind="src" path="aula14"/>
 	<classpathentry kind="src" path="aula15"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+	<classpathentry kind="src" path="aula16"/>
+	<classpathentry kind="src" path="aula17"/>
+	<classpathentry kind="src" path="aula18"/>
+	<classpathentry kind="src" path="aula18_desafios"/>
+	<classpathentry kind="src" path="aula19"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
